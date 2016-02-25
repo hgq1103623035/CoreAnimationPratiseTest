@@ -7,15 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		046157A41C75501E0083230E /* a.png in Resources */ = {isa = PBXBuildFile; fileRef = 046157A31C75501E0083230E /* a.png */; };
 		04F066101C74AD1F00F69D7D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F0660F1C74AD1F00F69D7D /* main.m */; };
 		04F066131C74AD1F00F69D7D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F066121C74AD1F00F69D7D /* AppDelegate.m */; };
 		04F066161C74AD2000F69D7D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F066151C74AD2000F69D7D /* ViewController.m */; };
 		04F066191C74AD2000F69D7D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F066171C74AD2000F69D7D /* Main.storyboard */; };
 		04F0661B1C74AD2000F69D7D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F0661A1C74AD2000F69D7D /* Assets.xcassets */; };
 		04F0661E1C74AD2000F69D7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F0661C1C74AD2000F69D7D /* LaunchScreen.storyboard */; };
+		04F0662D1C74BE4600F69D7D /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F066261C74BE4600F69D7D /* 1.png */; };
+		04F0662E1C74BE4600F69D7D /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F066271C74BE4600F69D7D /* 2.png */; };
+		04F0662F1C74BE4600F69D7D /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F066281C74BE4600F69D7D /* 3.png */; };
+		04F066301C74BE4600F69D7D /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F066291C74BE4600F69D7D /* 4.png */; };
+		04F066311C74BE4600F69D7D /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F0662A1C74BE4600F69D7D /* 5.png */; };
+		04F066321C74BE4600F69D7D /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F0662B1C74BE4600F69D7D /* 6.png */; };
+		04F066351C74C0F500F69D7D /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 04F066341C74C0F500F69D7D /* add.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		046157A31C75501E0083230E /* a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a.png; sourceTree = "<group>"; };
 		04F0660B1C74AD1F00F69D7D /* CoreAnimationPratise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreAnimationPratise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04F0660F1C74AD1F00F69D7D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04F066111C74AD1F00F69D7D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +35,13 @@
 		04F0661A1C74AD2000F69D7D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F0661D1C74AD2000F69D7D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F0661F1C74AD2000F69D7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F066261C74BE4600F69D7D /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		04F066271C74BE4600F69D7D /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		04F066281C74BE4600F69D7D /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		04F066291C74BE4600F69D7D /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		04F0662A1C74BE4600F69D7D /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		04F0662B1C74BE4600F69D7D /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		04F066341C74C0F500F69D7D /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,7 @@
 		04F0660D1C74AD1F00F69D7D /* CoreAnimationPratise */ = {
 			isa = PBXGroup;
 			children = (
+				04F066251C74BE4600F69D7D /* 坦克 */,
 				04F066111C74AD1F00F69D7D /* AppDelegate.h */,
 				04F066121C74AD1F00F69D7D /* AppDelegate.m */,
 				04F066141C74AD1F00F69D7D /* ViewController.h */,
@@ -77,6 +94,21 @@
 				04F0660F1C74AD1F00F69D7D /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04F066251C74BE4600F69D7D /* 坦克 */ = {
+			isa = PBXGroup;
+			children = (
+				046157A31C75501E0083230E /* a.png */,
+				04F066341C74C0F500F69D7D /* add.png */,
+				04F066261C74BE4600F69D7D /* 1.png */,
+				04F066271C74BE4600F69D7D /* 2.png */,
+				04F066281C74BE4600F69D7D /* 3.png */,
+				04F066291C74BE4600F69D7D /* 4.png */,
+				04F0662A1C74BE4600F69D7D /* 5.png */,
+				04F0662B1C74BE4600F69D7D /* 6.png */,
+			);
+			path = "坦克";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,9 +168,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04F066301C74BE4600F69D7D /* 4.png in Resources */,
 				04F0661E1C74AD2000F69D7D /* LaunchScreen.storyboard in Resources */,
+				04F0662E1C74BE4600F69D7D /* 2.png in Resources */,
+				04F066321C74BE4600F69D7D /* 6.png in Resources */,
+				04F066311C74BE4600F69D7D /* 5.png in Resources */,
+				04F0662F1C74BE4600F69D7D /* 3.png in Resources */,
 				04F0661B1C74AD2000F69D7D /* Assets.xcassets in Resources */,
+				04F066351C74C0F500F69D7D /* add.png in Resources */,
 				04F066191C74AD2000F69D7D /* Main.storyboard in Resources */,
+				046157A41C75501E0083230E /* a.png in Resources */,
+				04F0662D1C74BE4600F69D7D /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +338,7 @@
 				04F066241C74AD2000F69D7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
