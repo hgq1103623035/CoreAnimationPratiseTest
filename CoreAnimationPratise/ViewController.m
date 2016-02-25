@@ -26,7 +26,7 @@
     
     
     
-    //第一次修改
+    //第一次修改的
      btnArray = [[NSMutableArray alloc]init];
     for (int i = 0; i < 6; i ++)
     {
